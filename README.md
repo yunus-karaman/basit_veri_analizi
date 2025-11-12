@@ -1,0 +1,1 @@
+# basit_veri_analizi
